@@ -3,14 +3,14 @@
    --bg: #1f2533 !important;
    --accent-bg: #3d4b66 !important;
    --text: #ccddff !important;
-   --text-light: #585858 !important;
+   --text-light: #ccddff !important;
    --border: #3d4b66 !important;
    --accent: #9999ff !important;
    --code: #99ffdd !important;
    --preformatted: #ccddff !important;
    --marked: #99ffdd !important;
    --disabled: #3d4b66 !important;
-   --hover-brightness: brightness(1.4) !important;
+   --hover-brightness: brightness(1.2) !important;
 }
 img,
 video {
@@ -22,14 +22,14 @@ video {
       --bg: #1f2533 !important;
       --accent-bg: #3d4b66 !important;
       --text: #ccddff !important;
-      --text-light: #585858 !important;
+      --text-light: #ccddff !important;
       --border: #3d4b66 !important;
       --accent: #9999ff !important;
       --code: #99ffdd !important;
       --preformatted: #ccddff !important;
       --marked: #99ffdd !important;
       --disabled: #3d4b66 !important;
-      --hover-brightness: brightness(1.4) !important;
+      --hover-brightness: brightness(1.2) !important;
    }
    img,
    video {
