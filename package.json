@@ -1,0 +1,22 @@
+{
+  "name": "moonlitpurple-simplecss",
+  "version": "1.0.0",
+  "description": "A purple-ish-dark theme for Simple.css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moonlitPurple/simple.css.git"
+  },
+  "author": "Ehan Ahamed and contributors",
+  "license": "UPL-1.0",
+  "bugs": {
+    "url": "https://github.com/moonlitPurple/simple.css/issues"
+  },
+  "homepage": "https://github.com/moonlitPurple/simple.css#readme",
+  "devDependencies": {
+    "webcompounder": "^1.1.6"
+  }
+}
