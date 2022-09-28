@@ -30,11 +30,11 @@ input[type="button"]:enabled:hover,
 label[type="button"]:focus,
 label[type="button"]:hover {
    filter: var(--hover-brightness) !important;
-   color: var(--accent-hover) !important;
+   background-color: var(--accent-hover) !important;
 }
 header > nav a:hover {
    filter: var(--hover-brightness) !important;
-   color: var(--accent-hover) !important;
+   background-color: var(--accent-hover) !important;
 }
 .post-link {
    font-size: 1.6rem;
@@ -76,7 +76,7 @@ nav a.current {
 .button:hover,
 .button:focus {
    filter: var(--hover-brightness) !important;
-   color: var(--accent-hover) !important;
+   background-color: var(--accent-hover) !important;
    cursor: pointer;
 }
 .icon {
@@ -123,11 +123,11 @@ nav a.current {
    label[type="button"]:focus,
    label[type="button"]:hover {
       filter: var(--hover-brightness) !important;
-      color: var(--accent-hover) !important;
+      background-color: var(--accent-hover) !important;
    }
    header > nav a:hover {
       filter: var(--hover-brightness) !important;
-      color: var(--accent-hover) !important;
+      background-color: var(--accent-hover) !important;
    }
    .post-link {
       font-size: 1.6rem;
@@ -169,7 +169,7 @@ nav a.current {
    .button:hover,
    .button:focus {
       filter: var(--hover-brightness) !important;
-      color: var(--accent-hover) !important;
+      background-color: var(--accent-hover) !important;
       cursor: pointer;
    }
    .icon {
