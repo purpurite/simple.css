@@ -6,15 +6,6 @@
    --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
 }
 
-/* Dark theme */
-@media (prefers-color-scheme: dark) {
-   /* Add a bit of transparency so light media isn't so glaring in dark mode */
-   img,
-   video {
-      opacity: 0.8;
-   }
-}
-
 /* Reset box-sizing */
 *,
 *::before,
