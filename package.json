@@ -1,7 +1,7 @@
 {
   "name": "purpurite-simplecss",
   "version": "1.0.0",
-  "description": "A purple-ish-dark theme for Simple.css & more",
+  "description": "A purple-ish-dark theme for simple.css & more",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
