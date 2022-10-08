@@ -1,5 +1,5 @@
 {
-  "name": "moonlitpurple-simplecss",
+  "name": "purpurite-simplecss",
   "version": "1.0.0",
   "description": "A purple-ish-dark theme for Simple.css",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moonlitPurple/simple.css.git"
+    "url": "git+https://github.com/purpurite/simple.css.git"
   },
   "author": "Ehan Ahamed and contributors",
   "license": "UPL-1.0",
   "bugs": {
-    "url": "https://github.com/moonlitPurple/simple.css/issues"
+    "url": "https://github.com/purpurite/simple.css/issues"
   },
-  "homepage": "https://github.com/moonlitPurple/simple.css#readme",
+  "homepage": "https://github.com/purpurite/simple.css#readme",
   "devDependencies": {
     "prettier": "^2.7.1",
     "webcompounder": "^1.1.6"

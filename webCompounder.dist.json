@@ -1,6 +1,6 @@
 {
    "workflow": "bundle",
    "input": ["./src/simple.css", "./src/colors.css", "./src/colorsDark.css"],
-   "output": "./dist/moonlitPurple-Simple.css",
+   "output": "./dist/purpurite-Simple.css",
    "glob": false
 }
